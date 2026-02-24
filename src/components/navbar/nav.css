@@ -1,0 +1,39 @@
+i {
+    color: #5F6FFF;
+    margin-right: 5px;
+    font-size: 30px;
+}
+
+button.insidenav {
+    display: none;
+}
+
+@media (max-width:992px) {
+    button.insidenav {
+        display: block;
+    }
+    .login {
+        display: none;
+    }
+    button.outsidenav {
+        display: none;
+    }
+}
+
+hr {
+    margin: 10px 10px;
+    width: 85%;
+    height: 2px;
+    margin: 10px auto;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.link:hover {
+    color: #5F6FFF;
+    transition: 1s;
+}

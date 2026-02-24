@@ -1,0 +1,128 @@
+.poster {
+    padding: 50px 0;
+    background: linear-gradient(135deg, #0d6efd, #4dabf7);
+    color: white;
+    position: relative;
+    overflow: hidden;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
+/* ===== Titles ===== */
+
+.poster h2 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.poster h3 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.poster h4 {
+    font-size: 38px;
+    font-weight: 700;
+    color: #e3f2fd;
+    margin-bottom: 20px;
+}
+
+
+/* ===== Info Section ===== */
+
+.poster .info {
+    margin-top: 25px;
+}
+
+.poster .image img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-left: -15px;
+    transition: transform 0.3s ease;
+}
+
+.poster .image img:first-child {
+    margin-left: 0;
+}
+
+.poster .image img:hover {
+    transform: scale(1.1);
+}
+
+
+/* ===== Text Under Images ===== */
+
+.poster .text h5 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: #f1f1f1;
+}
+
+
+/* ===== Button ===== */
+
+.poster button {
+    margin-top: 30px;
+    background-color: white;
+    color: #0d6efd;
+    border: none;
+    font-weight: 600;
+    border-radius: 30px;
+    padding: 12px 30px;
+    transition: all 0.3s ease;
+}
+
+.poster button:hover {
+    background-color: #e9ecef;
+    transform: translateY(-3px);
+}
+
+
+/* ===== Right Image ===== */
+
+.poster img.img-fluid {
+    max-width: 90%;
+    animation: float 4s ease-in-out infinite;
+}
+
+
+/* Floating animation */
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-15px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+
+/* ===== Responsive ===== */
+
+@media (max-width: 992px) {
+    .poster {
+        text-align: center;
+    }
+    .poster h2 {
+        font-size: 36px;
+    }
+    .poster h3,
+    .poster h4 {
+        font-size: 30px;
+    }
+    .poster .info {
+        flex-direction: column;
+    }
+    .poster .image {
+        justify-content: center;
+    }
+}

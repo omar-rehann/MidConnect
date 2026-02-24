@@ -1,0 +1,25 @@
+.onedoctor .image {
+    background-color: #5f6fff;
+    padding: 10px;
+    margin: 10px 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.onedoctor .text {
+    margin: 10px 10px;
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+.cards {
+    margin: 10px auto;
+}
+
+.cards .card {
+    background-color: #f8fafc;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    transition: 0.3s ease;
+    width: 80%;
+}
