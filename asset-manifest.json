@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/MidConnect/static/css/main.d76b8b47.css",
+    "main.js": "/MidConnect/static/js/main.f0f78af3.js",
+    "static/media/contact.png": "/MidConnect/static/media/contact.20b30fe24d6647e07d16.png",
+    "static/media/poster.png": "/MidConnect/static/media/poster.70253f4e7d8c989e6e15.png",
+    "static/media/about.png": "/MidConnect/static/media/about.a8d35114424cad5f0f17.png",
+    "static/media/before.png": "/MidConnect/static/media/before.656db3af70f5c3a64ac3.png",
+    "static/media/doceight.png": "/MidConnect/static/media/doceight.62428b3f77ac57c2ef40.png",
+    "static/media/docnine.png": "/MidConnect/static/media/docnine.05b3af50cdaf1738d4ac.png",
+    "static/media/docfour.png": "/MidConnect/static/media/docfour.0e7d843acc5ae5bdde5c.png",
+    "static/media/docseven.png": "/MidConnect/static/media/docseven.4b0e18f3f6d0a08f5c9a.png",
+    "static/media/docfive.png": "/MidConnect/static/media/docfive.d79edd79f82ac1462dca.png",
+    "static/media/doctwo.png": "/MidConnect/static/media/doctwo.d612cdc7482903476b8f.png",
+    "static/media/docthree.png": "/MidConnect/static/media/docthree.f1b1cb47e8103c6639f9.png",
+    "static/media/docsix.png": "/MidConnect/static/media/docsix.ae971d32474d2aefac8f.png",
+    "static/media/docone.png": "/MidConnect/static/media/docone.f0f093227eba464db1a1.png",
+    "static/media/onedoctor.png": "/MidConnect/static/media/onedoctor.f0f093227eba464db1a1.png",
+    "static/media/docten.png": "/MidConnect/static/media/docten.b1ebd9940e5b7ff32b48.png",
+    "static/media/slide1.png": "/MidConnect/static/media/slide1.72337136b27b09216a23.png",
+    "static/media/slider2.png": "/MidConnect/static/media/slider2.72337136b27b09216a23.png",
+    "static/media/slider3.png": "/MidConnect/static/media/slider3.72337136b27b09216a23.png",
+    "static/media/fivespecial.svg": "/MidConnect/static/media/fivespecial.2a6cf19c676687d7c64fe99b2eb4652c.svg",
+    "static/media/fourspecial.svg": "/MidConnect/static/media/fourspecial.77d831fbba3f98bd74a1054d90bf308e.svg",
+    "static/media/twospecial.svg": "/MidConnect/static/media/twospecial.7a09bf4b68eec87cd218cff1ef9a3788.svg",
+    "static/media/sixspecial.svg": "/MidConnect/static/media/sixspecial.dc56dd1c037ec5e035acde49c66c7725.svg",
+    "static/media/onespecial.svg": "/MidConnect/static/media/onespecial.c5ec7de2af2010a7bef3c941710c965b.svg",
+    "static/media/threespecial.svg": "/MidConnect/static/media/threespecial.7fd46fc49a9e98fff7c2ae2c71fc1557.svg",
+    "index.html": "/MidConnect/index.html",
+    "main.d76b8b47.css.map": "/MidConnect/static/css/main.d76b8b47.css.map",
+    "main.f0f78af3.js.map": "/MidConnect/static/js/main.f0f78af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76b8b47.css",
+    "static/js/main.f0f78af3.js"
+  ]
+}
