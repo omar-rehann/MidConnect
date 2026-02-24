@@ -1,4 +1,4 @@
-# MediCare – Doctor & Specialty Directory
+# MedConnect – Doctor & Specialty Directory
 
 Modern responsive web application that helps patients discover medical specialties, browse available doctors, view services, learn about the platform, and get in touch. Includes basic user registration/login and admin access (frontend-ready; backend integration possible later).
 
@@ -47,30 +47,6 @@ Modern responsive web application that helps patients discover medical specialti
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://github.com/omar-rehann/MidConnect.git
    cd YOUR-REPO-NAME
    npm install
-# or
-yarn install
-src/
-├── assets/                 # images, logo, doctor photos...
-├── components/             # reusable pieces
-│   ├── Navbar.jsx
-│   ├── Footer.jsx
-│   ├── DoctorCard.jsx
-│   ├── SpecialtyCard.jsx
-│   └── ...
-├── pages/                  # main views
-│   ├── Home.jsx
-│   ├── About.jsx
-│   ├── AllDoctors.jsx
-│   ├── Contact.jsx
-│   ├── Login.jsx
-│   ├── Register.jsx
-│   └── Admin/
-│       └── AdminDashboard.jsx
-├── data/                   # mock data (for now)
-│   ├── doctors.js
-│   └── specialties.js
-├── context/                # if using context (Auth, etc.)
-└── App.jsx
