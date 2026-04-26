@@ -28,6 +28,7 @@ function App() {
             <Header/>
 
       <Routes>
+      <Route path="*" element={<Homepage />} />
       <Route path="/" element={<Homepage />} />
       <Route path="/alldoctor" element={<Alldcotor />} />
       <Route path="/about" element={<ABoutpage />} />
